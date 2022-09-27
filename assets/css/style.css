@@ -10,3 +10,14 @@ body {
     font-family: Open-Sans, sans-serif;
     font-weight: 300;
 }
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
