@@ -7,7 +7,7 @@ body {
     text-transform: uppercase;
 }
 
-header h1 {
+.left {
     float: left;
 }
 
