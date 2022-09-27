@@ -6,3 +6,11 @@ body {
     color: black;
     text-transform: uppercase;
 }
+
+header h1 {
+    float: left;
+}
+
+.right {
+    float: right;
+}
