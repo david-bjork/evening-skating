@@ -10,8 +10,15 @@ body {
 
 /* Aside Information */
 
-#offer {
+aside > p {
+    width: 100%;
+    clear: both;
+}
+
+p {
+    width: 30%;
+}
+
+.right {
     float: right;
-    margin-right: 5%;
-    text-align: right;
 }
