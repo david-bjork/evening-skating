@@ -9,6 +9,16 @@ THE INTRODUCTION TO THE SITE SECTION
 This section covers the main strokes about what the website offers and its purpose. It also goes in to more detail about the different alterantives and the reasons behind them.
 
 
+DRINKS MENU AND SIGN UP SECTION
+
+This section should have a small menu of hot drinks such as coffee and tea. It does have a sign up form where one enter ones first name, last name and email address.
+
+
+FOOTER SECTION
+
+The footer contains hyperlinks to Facebook, Instagram and Twitter.
+
+
 CODE CREDITED TO OTHER SOURCES
 
 All code that is not mine should have a commit where it says so. The source has been the Love Running project.
