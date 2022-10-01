@@ -28,9 +28,9 @@ TESTING FOR BUGS
 
 The bugs that I fixed were:
 
-1. Changing all the <h1> elements to <h2> elements (except the first one in the header), since there is only one time which it can be used on the website format that I had.
+1. Changing all the h1 elements to h2 elements (except the first one in the header), since there is only one time which the h1 element can be used on the website format that I have.
 
-2. Added a closing tag to the <aside> element in the Introduction to site section.
+2. Added a closing tag to the aside element in the Introduction to site section.
 
 The testing for bugs was used via https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
 
