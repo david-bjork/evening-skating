@@ -22,7 +22,7 @@ The bugs that I fixed were:
 
 2. Added a closing tag to the <aside> element in the Introduction to site section.
 
-The testing for bus was used via https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
+The testing for bugs was used via https://validator.w3.org/ and https://jigsaw.w3.org/css-validator/
 
 
 
