@@ -24,6 +24,14 @@ CODE CREDITED TO OTHER SOURCES
 All code that is not mine should have a commit where it says so. The source has been the Love Running project.
 
 
+IMAGES SOURCES
+
+The two images that has been used for this website come from the following site:
+
+https://www.pexels.com/sv-se/
+
+
+
 TESTING FOR BUGS
 
 The bugs that I fixed were:
